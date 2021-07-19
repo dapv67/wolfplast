@@ -1,4 +1,4 @@
-# central-factory
+# wolfplast
 Sistema web responsive útil para controlar la operación de una fabrica.  
 + La producción 
 + Los niveles de inventario 
